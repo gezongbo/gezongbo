@@ -2,8 +2,8 @@
 <p align="center">
   <a href="https://github.com/gezongbo"><img src="https://img.shields.io/badge/GitHub-ff79c6" alt="github"></a>
   <a href="https://blog.csdn.net/gezongbo"><img src="https://img.shields.io/badge/CSDN-cf000e" alt="csdn"></a>
-  <a href="https://juejin.cn/user/2063110402749495"><img src="https://img.shields.io/badge/JueJin-ff79c6" alt="juejin"></a>
-  <a href="https://www.guyuehome.com/author/60ef93c724967"><img src="https://img.shields.io/badge/Guyuehome-cf000e" alt="guyuehome"></a>
+  <a href="https://juejin.cn/user/2063110402749495"><img src="https://img.shields.io/badge/JueJin-add6ea" alt="juejin"></a>
+  <a href="https://www.guyuehome.com/author/60ef93c724967"><img src="https://img.shields.io/badge/Guyuehome-305976" alt="guyuehome"></a>
 </p>
 
 - 😄熟练掌握ROS常用的开发流程、工具、节点通信方法；
