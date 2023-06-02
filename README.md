@@ -7,10 +7,10 @@
 </p>
 
 - 😄熟练掌握ROS常用的开发流程、工具、节点通信方法；
-- 😃熟悉ROS下常用的开源SLAM算法原理，如gmapping、cartographer等算法；
-- 😆熟悉图像处理，使用过OpenCV等开源库；
-- 😝熟悉目标检测算法，如YOLOv3；
-- 😄熟悉linux下C/C++、Python、shell等开发语言，了解常用的数据结构和算法；
+- 😃了解ROS下常用的开源SLAM算法原理，如gmapping、cartographer等算法；
+- 😆了解图像处理，使用过OpenCV等开源库；
+- 😝了解目标检测算法，如YOLOv3；
+- 😄了解linux下C/C++、Python、shell等开发语言，了解常用的数据结构和算法；
 - 😧了解机器人常用运动学模型，如麦克纳姆轮，四轮差速模型，阿克曼模型等；
 
 
